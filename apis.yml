@@ -1,7 +1,12 @@
 aid: mueller-industries
-url: https://raw.githubusercontent.com/api-evangelist/mueller-industries/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mueller-industries/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mueller-industries.com
+description: >-
+  Mueller Industries is a leading manufacturer of copper, brass, aluminum, and plastic
+  products serving the plumbing, HVAC, refrigeration, industrial, automotive, and
+  other markets.
