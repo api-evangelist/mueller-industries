@@ -5,7 +5,7 @@ description: >-
   plastic products serving the plumbing, HVAC, refrigeration, industrial,
   automotive, and other markets.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mueller-industries/refs/heads/main/apis.yml
 tags:
