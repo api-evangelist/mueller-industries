@@ -1,7 +1,9 @@
 ---
 title: Mueller Industries expanding in Wynne, adding 60 new jobs
 url: https://www.kait8.com/2025/07/15/mueller-industries-expanding-wynne-adding-60-new-jobs/
-date: '2026-05-25'
+published: '2025-07-15'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Mueller Industries" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: News Release Archive
 url: https://press.spglobal.com/index.php?s=2429&utm_source=undefined&utm_medium=undefined&utm_campaign=undefined&utm_content=undefined&utm_term=undefined&kw=%257bkeyword%257d&gclid=undefined&o=280
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mueller Industries" press release artificial intelligence'
 position: 1
 source: serpapi-google

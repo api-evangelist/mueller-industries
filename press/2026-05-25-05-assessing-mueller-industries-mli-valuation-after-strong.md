@@ -1,7 +1,9 @@
 ---
 title: Assessing Mueller Industries (MLI) Valuation After Strong ...
 url: https://finance.yahoo.com/news/assessing-mueller-industries-mli-valuation-210935584.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mueller Industries" press release artificial intelligence'
 position: 5
 source: serpapi-google

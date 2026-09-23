@@ -1,7 +1,9 @@
 ---
 title: Mueller Industries Inc (MLI) AI Stock Analysis
 url: https://danelfin.com/stock/MLI
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mueller Industries" press release artificial intelligence'
 position: 4
 source: serpapi-google
